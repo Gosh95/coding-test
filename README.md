@@ -8,6 +8,7 @@
 | [배](https://www.acmicpc.net/problem/14719) | ![Gold5](https://user-images.githubusercontent.com/78140516/177302597-81c43004-bfff-4524-ba42-2c5549e0f0ae.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/greedy/BOJ1092.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/1092.py) | 그리디  |
 | [빗물](https://www.acmicpc.net/problem/1092) | ![Gold5](https://user-images.githubusercontent.com/78140516/177302597-81c43004-bfff-4524-ba42-2c5549e0f0ae.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/implementation/BOJ14719.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/implementation/14719.py) | 구현  |
 | [달력](https://www.acmicpc.net/problem/20207) | ![Silver1](https://user-images.githubusercontent.com/78140516/177302581-f4f0b0ee-760b-4fed-8cd6-620fa88a4e74.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/implementation/BOJ20207.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/implementation/20207.py) | 구현  |
+| [행복 유치원](https://www.acmicpc.net/problem/13164) | ![Gold5](https://user-images.githubusercontent.com/78140516/177302597-81c43004-bfff-4524-ba42-2c5549e0f0ae.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/greedy/BOJ13164.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/13164.py) | 그리디  |
 
 
 <br/>
