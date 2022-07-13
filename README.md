@@ -10,8 +10,7 @@
 | [달력](https://www.acmicpc.net/problem/20207) | ![Silver1](https://user-images.githubusercontent.com/78140516/177302581-f4f0b0ee-760b-4fed-8cd6-620fa88a4e74.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/implementation/BOJ20207.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/implementation/20207.py) | 구현  |
 | [행복 유치원](https://www.acmicpc.net/problem/13164) | ![Gold5](https://user-images.githubusercontent.com/78140516/177302597-81c43004-bfff-4524-ba42-2c5549e0f0ae.svg)  | [Java](https://github.com/Gosh95/coding-test/blob/main/solved/java/baekjoon/greedy/BOJ13164.java) / [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/13164.py) | 그리디  |
 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | ![Gold4](https://user-images.githubusercontent.com/78140516/178182395-dbdde59f-8644-46bf-97df-206a3289cd07.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/binarysearch/1477.py) | 이분탐색  |
-
-
+| [크게 만들기](https://www.acmicpc.net/problem/2812) | ![Gold3](https://user-images.githubusercontent.com/78140516/178645033-df3b7191-550a-40e4-a6ff-d1729d5c833d.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/2812.py) | 그리디  |
 
 <br/>
 <br/>
