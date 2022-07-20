@@ -12,6 +12,7 @@
 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | ![Gold4](https://user-images.githubusercontent.com/78140516/178182395-dbdde59f-8644-46bf-97df-206a3289cd07.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/binarysearch/1477.py) | 이분탐색  |
 | [크게 만들기](https://www.acmicpc.net/problem/2812) | ![Gold3](https://user-images.githubusercontent.com/78140516/178645033-df3b7191-550a-40e4-a6ff-d1729d5c833d.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/2812.py) | 그리디  |
 | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | ![Silver2](https://user-images.githubusercontent.com/78140516/177301911-54a3f0b7-947b-453e-99e5-2f754b72b35b.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/implementation/15787.py) | 구현  |
+| [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | ![Silver2](https://user-images.githubusercontent.com/78140516/177301911-54a3f0b7-947b-453e-99e5-2f754b72b35b.svg) | [Python](https://github.com/Gosh95/coding-test/blob/main/solved/python/baekjoon/greedy/1541.py) | 그리디  |
 
 <br/>
 <br/>
